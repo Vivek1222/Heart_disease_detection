@@ -1,5 +1,7 @@
 # Heart Disease Detection
 
+![A data scientist working on heart disease](https://github.com/user-attachments/assets/0b9439f4-3c8e-4015-9877-d46c364a6d8f)
+
 ## Project Description
 
 This Heart Disease Prediction project leverages machine learning to predict the likelihood of heart disease in patients, providing valuable insights for preventive healthcare. Through predictive analysis, the project aims to help healthcare providers and patients make informed decisions by identifying risk factors associated with heart disease. This predictive tool can aid in early diagnosis and potentially reduce the impact of heart disease on individuals and healthcare systems.
